@@ -1,0 +1,17 @@
+{
+  "name": "demo-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "paalgyula",
+  "license": "ISC",
+  "dependencies": {
+    "mineflayer": "^2.6.1",
+    "mineflayer-blockfinder": "0.0.7",
+    "mineflayer-navigate": "0.0.10"
+  }
+}
